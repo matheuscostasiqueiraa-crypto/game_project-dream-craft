@@ -1,195 +1,96 @@
 {
   "repositorio": "matheuscostasiqueiraa-crypto/game_project-dream-craft",
-  "base_raw": "https://raw.githubusercontent.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/main/",
   "blocos": {
-    "janela": "assets/Blocos/Windows_block.png",
-    "areia": "assets/Blocos/areia_block.png",
-    "balarato": "assets/Blocos/balarato_block.png",
-    "balarato_grosso": "assets/Blocos/balarato_block_gross.png",
-    "bloco_base_inferior": "assets/Blocos/block_block_below.png",
-    "bloco_base_tijolo": "assets/Blocos/block_block_brings.png",
-    "bloco_base_frente": "assets/Blocos/block_block_forehead.png",
-    "bloco_base_esquerda": "assets/Blocos/block_block_left.png",
-    "bloco_base_direita": "assets/Blocos/block_block_right.png",
-    "bloco_base_superior": "assets/Blocos/block_block_up.png",
-    "cacto_corpo": "assets/Blocos/cactus_block.png",
-    "cacto_topo": "assets/Blocos/cactus_block_up.png",
-    "pano_ciano": "assets/Blocos/cloth_block_cyan.png",
-    "pano_verde": "assets/Blocos/cloth_block_green.png",
-    "pano_laranja": "assets/Blocos/cloth_block_orange.png",
-    "pano_roxo": "assets/Blocos/cloth_block_purple.png",
-    "pano_vermelho": "assets/Blocos/cloth_block_red.png",
-    "pano_amarelo": "assets/Blocos/cloth_block_yellow.png",
-    "carvao": "assets/Blocos/coal_block.png",
-    "brasao": "assets/Blocos/crest_block.png",
-    "terra": "assets/Blocos/dirt_block.png",
-    "grama_lateral": "assets/Blocos/dirt_grass_side.png",
-    "porta": "assets/Blocos/door.png",
-    "fogo": "assets/Blocos/fire_block.png",
-    "ouro": "assets/Blocos/goid_block.png",
-    "grama_topo": "assets/Blocos/grass_top.png",
-    "ferro": "assets/Blocos/iron_block.png",
-    "folhas": "assets/Blocos/leaves_block.png",
-    "magmatita": "assets/Blocos/magmatite_block.png",
-    "solo_musgo": "assets/Blocos/moss_soil_bloco.png",
-    "planta": "assets/Blocos/plant_block.png",
-    "madeira_polida": "assets/Blocos/polished_wooden_block.png",
-    "solo": "assets/Blocos/soil_bloco.png",
-    "pedra": "assets/Blocos/stone_block.png",
-    "pedra_vermelha": "assets/Blocos/stone_red_stone.png",
-    "tnt": "assets/Blocos/tnt_block.png",
-    "agua": "assets/Blocos/water_block.png",
-    "tronco_lateral": "assets/Blocos/wood_log.png",
-    "tronco_topo": "assets/Blocos/wood_top.png"
+    "janela": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/Windows_block.png",
+    "areia": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/areia_block.png",
+    "balarato": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/balarato_block.png",
+    "balarato_grosso": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/balarato_block_gross.png",
+    "bloco_base_inferior": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/block_block_below.png",
+    "bloco_base_tijolo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/block_block_brings.png",
+    "bloco_base_frente": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/block_block_forehead.png",
+    "bloco_base_esquerda": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/block_block_left.png",
+    "bloco_base_direita": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/block_block_right.png",
+    "bloco_base_superior": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/block_block_up.png",
+    "cacto_corpo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cactus_block.png",
+    "cacto_topo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cactus_block_up.png",
+    "pano_ciano": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cloth_block_cyan.png",
+    "pano_verde": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cloth_block_green.png",
+    "pano_laranja": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cloth_block_orange.png",
+    "pano_roxo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cloth_block_purple.png",
+    "pano_vermelho": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cloth_block_red.png",
+    "pano_amarelo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/cloth_block_yellow.png",
+    "carvao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/coal_block.png",
+    "brasao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/crest_block.png",
+    "terra": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/dirt_block.png",
+    "grama_lateral": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/dirt_grass_side.png",
+    "porta": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/door.png",
+    "fogo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/fire_block.png",
+    "ouro": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/goid_block.png",
+    "grama_topo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/grass_top.png",
+    "ferro": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/iron_block.png",
+    "folhas": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/leaves_block.png",
+    "magmatita": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/magmatite_block.png",
+    "solo_musgo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/moss_soil_bloco.png",
+    "planta": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/plant_block.png",
+    "madeira_polida": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/polished_wooden_block.png",
+    "solo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/soil_bloco.png",
+    "pedra": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/stone_block.png",
+    "pedra_vermelha": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/stone_red_stone.png",
+    "tnt": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/tnt_block.png",
+    "agua": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/water_block.png",
+    "tronco_lateral": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/wood_log.png",
+    "tronco_topo": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/wood_top.png"
   },
   "fontes": {
-    "depixel_breit": "assets/Fontes/DePixelBreit%20(patr%C3%A3o).ttf",
-    "pixel_grunge": "assets/Fontes/PixelGrunge%20(para%20introdu%C3%A7%C3%B5es).ttf"
+    "depixel_breit": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Fontes/DePixelBreit%20(patr%C3%A3o).ttf",
+    "pixel_grunge": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Fontes/PixelGrunge%20(para%20introdu%C3%A7%C3%B5es).ttf"
   },
   "interface": {
-    "vida_cheia": "assets/Interface/life.png",
-    "vida_metade": "assets/Interface/life_5.png",
-    "vida_vazia": "assets/Interface/life_0.png",
-    "folego_animacao": "assets/Interface/breath_animation.gif",
-    "folego_zero": "assets/Interface/breath_0.png"
+    "vida_cheia": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/life.png",
+    "vida_metade": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/life_5.png",
+    "vida_vazia": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/life_0.png",
+    "folego_animacao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/breath_animation.gif",
+    "folego_zero": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/breath_0.png"
   },
   "ui_pecas": {
-    "ui_1": "assets/UI%20interface/ui1.png",
-    "ui_2": "assets/UI%20interface/ui2.png",
-    "ui_3": "assets/UI%20interface/ui3.png",
-    "ui_4": "assets/UI%20interface/ui4.png",
-    "ui_5": "assets/UI%20interface/ui5.png",
-    "ui_6": "assets/UI%20interface/ui6.png",
-    "ui_7": "assets/UI%20interface/ui7.png",
-    "ui_8": "assets/UI%20interface/ui8.png",
-    "ui_9": "assets/UI%20interface/ui9.png",
-    "ui_0e": "assets/UI%20interface/ui_0e.png",
-    "ui_n": "assets/UI%20interface/ui_n.png",
-    "ui_y": "assets/UI%20interface/ui_y.png"
+    "ui_1": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui1.png",
+    "ui_2": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui2.png",
+    "ui_3": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui3.png",
+    "ui_4": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui4.png",
+    "ui_5": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui5.png",
+    "ui_6": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui6.png",
+    "ui_7": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui7.png",
+    "ui_8": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui8.png",
+    "ui_9": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui9.png",
+    "ui_0e": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui_0e.png",
+    "ui_n": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui_n.png",
+    "ui_y": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui_y.png"
   },
   "sons": {
     "efeitos": {
-      "berimbau": "assets/Sons/Efeitos%20de%20som/JAWHARP.WAV",
-      "mineracao_vidro": "assets/Sons/Efeitos%20de%20som/Mining_sound_(glass).WAV",
-      "som_mineracao": "assets/Sons/Efeitos%20de%20som/They_are_from_mining_(glass).WAV",
-      "dano": "assets/Sons/Efeitos%20de%20som/sound_of_damage.WAV",
-      "explosao": "assets/Sons/Efeitos%20de%20som/sound_of_explosion.WAV"
+      "berimbau": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/JAWHARP.WAV",
+      "mineracao_vidro": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/Mining_sound_(glass).WAV",
+      "som_mineracao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/They_are_from_mining_(glass).WAV",
+      "dano": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/sound_of_damage.WAV",
+      "explosao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/sound_of_explosion.WAV"
     },
     "musicas": {
-      "menu": "assets/Sons/M%C3%BAsicas%20de%20UI/menu_music.WAV"
+      "menu": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/M%C3%BAsicas%20de%20UI/menu_music.WAV"
     },
     "ui": {
-      "sair": "assets/Sons/Sons%20de%20UI/EXIT.WAV",
-      "confirmacao": "assets/Sons/Sons%20de%20UI/confirmation_sound.WAV",
-      "falha": "assets/Sons/Sons%20de%20UI/failure_sound%20.WAV",
-      "introducao": "assets/Sons/Sons%20de%20UI/introduction.WAV",
-      "inventario": "assets/Sons/Sons%20de%20UI/inventory_sound.WAV"
+      "sair": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/EXIT.WAV",
+      "confirmacao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/confirmation_sound.WAV",
+      "falha": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/failure_sound%20.WAV",
+      "introducao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/introduction.WAV",
+      "inventario": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/inventory_sound.WAV"
     }
   },
   "skybox": {
-    "lua": "assets/skybox/moon_skybox.png",
-    "padrao": "assets/skybox/skybox.png",
-    "nuvens_1": "assets/skybox/skybox_sells_1.png",
-    "nuvens_2": "assets/skybox/skybox_sells_2.png",
-    "nuvens_3": "assets/skybox/skybox_sells_3.png",
-    "sol": "assets/skybox/sun_skybox.png"
+    "lua": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/moon_skybox.png",
+    "padrao": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox.png",
+    "nuvens_1": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox_sells_1.png",
+    "nuvens_2": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox_sells_2.png",
+    "nuvens_3": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox_sells_3.png",
+    "sol": "https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/sun_skybox.png"
   }
 }
-ob/main/assets/Blocos/wood_log.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Blocos/wood_top.png
-
----
-assets/Fontes/
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Fontes/DePixelBreit%20(patr%C3%A3o).ttf
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Fontes/PixelGrunge%20(para%20introdu%C3%A7%C3%B5es).ttf
-
----
-assets/Interface/
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/life.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/life_5.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/life_0.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/breath_animation.gif
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Interface/breath_0.png
-
----
-assets/Sons:
-
-Efeitos%20de%20som/
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/JAWHARP.WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/Mining_sound_(glass).WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/They_are_from_mining_(glass).WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/sound_of_damage.WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Efeitos%20de%20som/sound_of_explosion.WAV
-
-M%C3%BAsicas%20de%20UI/
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/M%C3%BAsicas%20de%20UI/menu_music.WAV
-
-Sons%20de%20UI/ 
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/EXIT.WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/confirmation_sound.WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/failure_sound%20.WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/introduction.WAV
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/Sons/Sons%20de%20UI/inventory_sound.WAV
-
----
-assets/UI%20interface/ 
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui1.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui2.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui3.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui4.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui5.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui6.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui7.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui8.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui9.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui_0e.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui_n.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/UI%20interface/ui_y.png
-
----
-assets/skybox/ 
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/moon_skybox.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox_sells_1.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox_sells_2.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/skybox_sells_3.png
-
-https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/assets/skybox/sun_skybox.png
-
----
