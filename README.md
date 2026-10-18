@@ -1,3 +1,7 @@
+
+
+<img width="534" height="192" alt="New 30sz" src="https://github.com/user-attachments/assets/4062d326-bc4b-4514-8a2e-7885d859a68a" />
+
 # NULIRIS
 
 > Um gato cego. Um experimento. Um mundo que só existe quando ele dorme.
