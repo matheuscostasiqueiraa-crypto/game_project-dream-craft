@@ -1,4 +1,4 @@
-<img width="534" height="192" alt="New 30sz" src="https://github.com/user-attachments/assets/4062d326-bc4b-4514-8a2e-7885d859a68a" />
+<img width="534" height="192" alt="New 30sz" src="https://github.com/matheuscostasiqueiraa-crypto/game_project-dream-craft/blob/main/logo_game.png" />
 
 # NULIRIS
 
